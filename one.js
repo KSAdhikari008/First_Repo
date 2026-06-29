@@ -7,3 +7,6 @@ let c = 30;
 let d = 40;
 
 console.log(a+b+c+d);
+
+c = a+b;
+d = c + b;

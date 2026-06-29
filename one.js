@@ -10,3 +10,5 @@ console.log(a+b+c+d);
 
 c = a+b;
 d = c + b;
+
+const exp = Math.pow(c,3);

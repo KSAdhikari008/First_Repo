@@ -12,3 +12,4 @@ c = a+b;
 d = c + b;
 
 const div = c / d;
+const fdiv = c / d / 100;
